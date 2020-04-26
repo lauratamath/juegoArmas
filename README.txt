@@ -1,0 +1,2 @@
+Juego en el cual, hay una arma que contiene cloro para poder eliminar el virus de Covid-19. Este virus se mantiene flotando en el aire, por lo tanto, debes eliminarlo. Hay un total de 4 covid-19, debes eliminarlos a todos.
+En el menú del inicio, se encuentran dos de este virus, si los presionas los puedes botar y se tornan color gris, pues es una simulación de que estos ya están muertos.
